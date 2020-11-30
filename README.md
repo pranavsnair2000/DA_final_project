@@ -1,5 +1,6 @@
 # DA_final_project
 Dataset chosen: Zomato bangalore restaurants
+The dataset was too big to upload onto github, so please refer to this link to download the dataset before running the python script
 https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 
